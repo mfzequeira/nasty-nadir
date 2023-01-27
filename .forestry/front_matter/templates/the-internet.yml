@@ -38,3 +38,5 @@ fields:
   label: description
   config:
     required: true
+pages:
+- src/contents/how-does-the-internet-work.md
