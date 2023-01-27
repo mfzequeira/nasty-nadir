@@ -5,12 +5,16 @@ fields:
 - type: text
   name: Manuel_Fernandez
   label: author
+  config:
+    required: true
 - type: datetime
   name: datetime
   label: datetime
+  default: now
 - type: text
   name: title
   label: title
+  default: Manuel Fernandez
 - type: text
   name: slug
   label: slug
@@ -29,3 +33,5 @@ fields:
 - type: text
   name: description
   label: description
+  config:
+    required: true
