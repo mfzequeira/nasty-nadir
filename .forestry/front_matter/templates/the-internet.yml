@@ -40,3 +40,4 @@ fields:
     required: true
 pages:
 - src/contents/how-does-the-internet-work.md
+- src/contents/manuel-fernandez.md
